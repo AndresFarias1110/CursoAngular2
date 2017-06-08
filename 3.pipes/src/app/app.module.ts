@@ -4,6 +4,7 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
+import { NguiMapModule} from '@ngui/map';
 import { DomseguroPipe } from './pipes/domseguro.pipe';
 
 @NgModule({
@@ -14,7 +15,10 @@ import { DomseguroPipe } from './pipes/domseguro.pipe';
   imports: [
     BrowserModule,
     FormsModule,
-    HttpModule
+    HttpModule,
+    NguiMapModule.forRoot({
+      apiUrl: 'https://maps.google.com/maps/api/js?key=AIzaSyA6jDcAUiCxLkDQj2qO6mxE8zHTMkXxa-w'
+    })
   ],
   providers: [],
   bootstrap: [AppComponent]
