@@ -1,0 +1,1740 @@
+[
+  {
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+          "id": "3p7Bs02UWDt5ENoJeUGqaB",
+          "name": "Porta",
+          "type": "artist",
+          "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+        }
+      ],
+      "available_markets": [
+        "MX",
+        "US"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2nWSJnbDqmXFX88nV4IIj6"
+      },
+      "href": "https://api.spotify.com/v1/albums/2nWSJnbDqmXFX88nV4IIj6",
+      "id": "2nWSJnbDqmXFX88nV4IIj6",
+      "images": [
+        {
+          "height": 636,
+          "url": "https://i.scdn.co/image/730644badd0770d5eea794aa9c8fede5bcdf94ab",
+          "width": 640
+        },
+        {
+          "height": 298,
+          "url": "https://i.scdn.co/image/0fed291c682dbc3307df85c1dc1062d75db38740",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e2befffca8e1e4da770e05200191d7a5a8d06571",
+          "width": 64
+        }
+      ],
+      "name": "Trastorno Bipolar",
+      "type": "album",
+      "uri": "spotify:album:2nWSJnbDqmXFX88nV4IIj6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+        },
+        "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+        "id": "3p7Bs02UWDt5ENoJeUGqaB",
+        "name": "Porta",
+        "type": "artist",
+        "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+      }
+    ],
+    "available_markets": [
+      "MX",
+      "US"
+    ],
+    "disc_number": 1,
+    "duration_ms": 308946,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ES5700901682"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/3bHzzuRc2vU97FhJ0ohSKf"
+    },
+    "href": "https://api.spotify.com/v1/tracks/3bHzzuRc2vU97FhJ0ohSKf",
+    "id": "3bHzzuRc2vU97FhJ0ohSKf",
+    "name": "La Bella Y La Bestia (Con Norykko)",
+    "popularity": 50,
+    "preview_url": null,
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:3bHzzuRc2vU97FhJ0ohSKf"
+  },
+  {
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+          "id": "3p7Bs02UWDt5ENoJeUGqaB",
+          "name": "Porta",
+          "type": "artist",
+          "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1HoQeNYPnHRIJD2Br7ggZU"
+      },
+      "href": "https://api.spotify.com/v1/albums/1HoQeNYPnHRIJD2Br7ggZU",
+      "id": "1HoQeNYPnHRIJD2Br7ggZU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/4913ad72116030bbeb391b4bcfc630283e9bf522",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/848f7aece322be1361674aee73aae53bf658d428",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2cff1be6326ef06fce6bada1b0f68ab7dbe700a5",
+          "width": 64
+        }
+      ],
+      "name": "Reset",
+      "type": "album",
+      "uri": "spotify:album:1HoQeNYPnHRIJD2Br7ggZU"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+        },
+        "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+        "id": "3p7Bs02UWDt5ENoJeUGqaB",
+        "name": "Porta",
+        "type": "artist",
+        "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/75CeB1cg8DLrDHALRYBE2W"
+        },
+        "href": "https://api.spotify.com/v1/artists/75CeB1cg8DLrDHALRYBE2W",
+        "id": "75CeB1cg8DLrDHALRYBE2W",
+        "name": "Gema",
+        "type": "artist",
+        "uri": "spotify:artist:75CeB1cg8DLrDHALRYBE2W"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AR",
+      "AT",
+      "AU",
+      "BE",
+      "BG",
+      "BO",
+      "BR",
+      "CA",
+      "CH",
+      "CL",
+      "CO",
+      "CR",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "DO",
+      "EC",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "GT",
+      "HK",
+      "HN",
+      "HU",
+      "ID",
+      "IE",
+      "IS",
+      "IT",
+      "JP",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MT",
+      "MX",
+      "MY",
+      "NI",
+      "NL",
+      "NO",
+      "NZ",
+      "PA",
+      "PE",
+      "PH",
+      "PL",
+      "PT",
+      "PY",
+      "SE",
+      "SG",
+      "SK",
+      "SV",
+      "TR",
+      "TW",
+      "US",
+      "UY"
+    ],
+    "disc_number": 1,
+    "duration_ms": 284186,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "ES05I1201232"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5vnnV37GibdaLg3ji7bOIZ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5vnnV37GibdaLg3ji7bOIZ",
+    "id": "5vnnV37GibdaLg3ji7bOIZ",
+    "name": "Palabras Mudas",
+    "popularity": 52,
+    "preview_url": "https://p.scdn.co/mp3-preview/13b5ff341d06e98bf2edd92ce604c732e0d0d62a?cid=c3be672b34b94587aeca21c4ebdab758",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:5vnnV37GibdaLg3ji7bOIZ"
+  },
+  {
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+          "id": "3p7Bs02UWDt5ENoJeUGqaB",
+          "name": "Porta",
+          "type": "artist",
+          "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4ngH2eSqfLkW9Zffrt2ppG"
+      },
+      "href": "https://api.spotify.com/v1/albums/4ngH2eSqfLkW9Zffrt2ppG",
+      "id": "4ngH2eSqfLkW9Zffrt2ppG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/5dc1994dd4b26cb942c4274e50584195a3864f03",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/84b2567a9b9f42a78ac9d1a058b475a6e1a2486c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/264bf6a9e128859964f1334341ff2c46a11ec2ce",
+          "width": 64
+        }
+      ],
+      "name": "Algo Ha Cambiado - Versión Comentada",
+      "type": "album",
+      "uri": "spotify:album:4ngH2eSqfLkW9Zffrt2ppG"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+        },
+        "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+        "id": "3p7Bs02UWDt5ENoJeUGqaB",
+        "name": "Porta",
+        "type": "artist",
+        "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AR",
+      "AT",
+      "AU",
+      "BE",
+      "BG",
+      "BO",
+      "BR",
+      "CA",
+      "CH",
+      "CL",
+      "CO",
+      "CR",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "DO",
+      "EC",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "GT",
+      "HK",
+      "HN",
+      "HU",
+      "ID",
+      "IE",
+      "IS",
+      "IT",
+      "JP",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MT",
+      "MX",
+      "MY",
+      "NI",
+      "NL",
+      "NO",
+      "NZ",
+      "PA",
+      "PE",
+      "PH",
+      "PL",
+      "PT",
+      "PY",
+      "SE",
+      "SG",
+      "SK",
+      "SV",
+      "TR",
+      "TW",
+      "US",
+      "UY"
+    ],
+    "disc_number": 1,
+    "duration_ms": 233773,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ES05I1400025"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5vm61RNKAd0BfH8vHEwFcV"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5vm61RNKAd0BfH8vHEwFcV",
+    "id": "5vm61RNKAd0BfH8vHEwFcV",
+    "name": "Tras el Cristal",
+    "popularity": 51,
+    "preview_url": "https://p.scdn.co/mp3-preview/df98a7e6146c1718eb41303f133b88ca3a7d6f88?cid=c3be672b34b94587aeca21c4ebdab758",
+    "track_number": 12,
+    "type": "track",
+    "uri": "spotify:track:5vm61RNKAd0BfH8vHEwFcV"
+  },
+  {
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+          "id": "3p7Bs02UWDt5ENoJeUGqaB",
+          "name": "Porta",
+          "type": "artist",
+          "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/722LYOdM6WkZy8IDL4jxfi"
+      },
+      "href": "https://api.spotify.com/v1/albums/722LYOdM6WkZy8IDL4jxfi",
+      "id": "722LYOdM6WkZy8IDL4jxfi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f01755b315be96217f3d398ae7930e5f74e0ebbc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/6ea1d12ed46cb20ba2aa3bcddca5da53c18dca75",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b2c3fca1b614fd7e8ca2f9057cd46944adfb8139",
+          "width": 64
+        }
+      ],
+      "name": "Equilibrio (Edición Exclusiva Spotify)",
+      "type": "album",
+      "uri": "spotify:album:722LYOdM6WkZy8IDL4jxfi"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+        },
+        "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+        "id": "3p7Bs02UWDt5ENoJeUGqaB",
+        "name": "Porta",
+        "type": "artist",
+        "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AR",
+      "AT",
+      "AU",
+      "BE",
+      "BG",
+      "BO",
+      "BR",
+      "CA",
+      "CH",
+      "CL",
+      "CO",
+      "CR",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "DO",
+      "EC",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "GT",
+      "HK",
+      "HN",
+      "HU",
+      "ID",
+      "IE",
+      "IS",
+      "IT",
+      "JP",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MT",
+      "MX",
+      "MY",
+      "NI",
+      "NL",
+      "NO",
+      "NZ",
+      "PA",
+      "PE",
+      "PH",
+      "PL",
+      "PT",
+      "PY",
+      "SE",
+      "SG",
+      "SK",
+      "SV",
+      "TR",
+      "TW",
+      "US",
+      "UY"
+    ],
+    "disc_number": 2,
+    "duration_ms": 357333,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "ES05I1601313"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/38Cyg2S5tIsv16MFFdQ0rQ"
+    },
+    "href": "https://api.spotify.com/v1/tracks/38Cyg2S5tIsv16MFFdQ0rQ",
+    "id": "38Cyg2S5tIsv16MFFdQ0rQ",
+    "name": "Hay Siempre un Sentimiento Muerto en un Corazón Roto 1.5",
+    "popularity": 50,
+    "preview_url": "https://p.scdn.co/mp3-preview/56beb3e52c75f45528bd376f7d57879ea7c61de6?cid=c3be672b34b94587aeca21c4ebdab758",
+    "track_number": 3,
+    "type": "track",
+    "uri": "spotify:track:38Cyg2S5tIsv16MFFdQ0rQ"
+  },
+  {
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+          "id": "3p7Bs02UWDt5ENoJeUGqaB",
+          "name": "Porta",
+          "type": "artist",
+          "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/722LYOdM6WkZy8IDL4jxfi"
+      },
+      "href": "https://api.spotify.com/v1/albums/722LYOdM6WkZy8IDL4jxfi",
+      "id": "722LYOdM6WkZy8IDL4jxfi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f01755b315be96217f3d398ae7930e5f74e0ebbc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/6ea1d12ed46cb20ba2aa3bcddca5da53c18dca75",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b2c3fca1b614fd7e8ca2f9057cd46944adfb8139",
+          "width": 64
+        }
+      ],
+      "name": "Equilibrio (Edición Exclusiva Spotify)",
+      "type": "album",
+      "uri": "spotify:album:722LYOdM6WkZy8IDL4jxfi"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+        },
+        "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+        "id": "3p7Bs02UWDt5ENoJeUGqaB",
+        "name": "Porta",
+        "type": "artist",
+        "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AR",
+      "AT",
+      "AU",
+      "BE",
+      "BG",
+      "BO",
+      "BR",
+      "CA",
+      "CH",
+      "CL",
+      "CO",
+      "CR",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "DO",
+      "EC",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "GT",
+      "HK",
+      "HN",
+      "HU",
+      "ID",
+      "IE",
+      "IS",
+      "IT",
+      "JP",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MT",
+      "MX",
+      "MY",
+      "NI",
+      "NL",
+      "NO",
+      "NZ",
+      "PA",
+      "PE",
+      "PH",
+      "PL",
+      "PT",
+      "PY",
+      "SE",
+      "SG",
+      "SK",
+      "SV",
+      "TR",
+      "TW",
+      "US",
+      "UY"
+    ],
+    "disc_number": 1,
+    "duration_ms": 255567,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "ES05I1601298"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1O9OesibMKvUUo8ObRbMKu"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1O9OesibMKvUUo8ObRbMKu",
+    "id": "1O9OesibMKvUUo8ObRbMKu",
+    "name": "Imperfecto",
+    "popularity": 49,
+    "preview_url": "https://p.scdn.co/mp3-preview/b3aab802901844440811616c2bdbee8ddca7c175?cid=c3be672b34b94587aeca21c4ebdab758",
+    "track_number": 5,
+    "type": "track",
+    "uri": "spotify:track:1O9OesibMKvUUo8ObRbMKu"
+  },
+  {
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+          "id": "3p7Bs02UWDt5ENoJeUGqaB",
+          "name": "Porta",
+          "type": "artist",
+          "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/722LYOdM6WkZy8IDL4jxfi"
+      },
+      "href": "https://api.spotify.com/v1/albums/722LYOdM6WkZy8IDL4jxfi",
+      "id": "722LYOdM6WkZy8IDL4jxfi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f01755b315be96217f3d398ae7930e5f74e0ebbc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/6ea1d12ed46cb20ba2aa3bcddca5da53c18dca75",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b2c3fca1b614fd7e8ca2f9057cd46944adfb8139",
+          "width": 64
+        }
+      ],
+      "name": "Equilibrio (Edición Exclusiva Spotify)",
+      "type": "album",
+      "uri": "spotify:album:722LYOdM6WkZy8IDL4jxfi"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+        },
+        "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+        "id": "3p7Bs02UWDt5ENoJeUGqaB",
+        "name": "Porta",
+        "type": "artist",
+        "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AR",
+      "AT",
+      "AU",
+      "BE",
+      "BG",
+      "BO",
+      "BR",
+      "CA",
+      "CH",
+      "CL",
+      "CO",
+      "CR",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "DO",
+      "EC",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "GT",
+      "HK",
+      "HN",
+      "HU",
+      "ID",
+      "IE",
+      "IS",
+      "IT",
+      "JP",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MT",
+      "MX",
+      "MY",
+      "NI",
+      "NL",
+      "NO",
+      "NZ",
+      "PA",
+      "PE",
+      "PH",
+      "PL",
+      "PT",
+      "PY",
+      "SE",
+      "SG",
+      "SK",
+      "SV",
+      "TR",
+      "TW",
+      "US",
+      "UY"
+    ],
+    "disc_number": 1,
+    "duration_ms": 309333,
+    "explicit": true,
+    "external_ids": {
+      "isrc": "ES05I1601304"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4gLSLTt7Vrjh5lTkt8GSn8"
+    },
+    "href": "https://api.spotify.com/v1/tracks/4gLSLTt7Vrjh5lTkt8GSn8",
+    "id": "4gLSLTt7Vrjh5lTkt8GSn8",
+    "name": "Bruce Wayne",
+    "popularity": 49,
+    "preview_url": "https://p.scdn.co/mp3-preview/c1feab865c10acf77cb177a19833242f9e240bcb?cid=c3be672b34b94587aeca21c4ebdab758",
+    "track_number": 7,
+    "type": "track",
+    "uri": "spotify:track:4gLSLTt7Vrjh5lTkt8GSn8"
+  },
+  {
+    "album": {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+          "id": "3p7Bs02UWDt5ENoJeUGqaB",
+          "name": "Porta",
+          "type": "artist",
+          "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4MVsZq47WnP1a20IMvyHMf"
+      },
+      "href": "https://api.spotify.com/v1/albums/4MVsZq47WnP1a20IMvyHMf",
+      "id": "4MVsZq47WnP1a20IMvyHMf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/de54098a6d210709a2e745b5165264c0c391a8ab",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/f498b9d7e936daf3efb167481d445108d54b564d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/40a996987b7c77f1dfc868e0c24a9e9284a6ea31",
+          "width": 64
+        }
+      ],
+      "name": "Amor",
+      "type": "album",
+      "uri": "spotify:album:4MVsZq47WnP1a20IMvyHMf"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+        },
+        "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+        "id": "3p7Bs02UWDt5ENoJeUGqaB",
+        "name": "Porta",
+        "type": "artist",
+        "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AR",
+      "AT",
+      "AU",
+      "BE",
+      "BG",
+      "BO",
+      "BR",
+      "CA",
+      "CH",
+      "CL",
+      "CO",
+      "CR",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "DO",
+      "EC",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "GT",
+      "HK",
+      "HN",
+      "HU",
+      "ID",
+      "IE",
+      "IS",
+      "IT",
+      "JP",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MT",
+      "MX",
+      "MY",
+      "NI",
+      "NL",
+      "NO",
+      "NZ",
+      "PA",
+      "PE",
+      "PH",
+      "PL",
+      "PT",
+      "PY",
+      "SE",
+      "SG",
+      "SK",
+      "SV",
+      "TR",
+      "TW",
+      "US",
+      "UY"
+    ],
+    "disc_number": 1,
+    "duration_ms": 261333,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ES05I1501258"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/0j3a8iZ4qkkJ03i721L3tE"
+    },
+    "href": "https://api.spotify.com/v1/tracks/0j3a8iZ4qkkJ03i721L3tE",
+    "id": "0j3a8iZ4qkkJ03i721L3tE",
+    "name": "Amor",
+    "popularity": 47,
+    "preview_url": "https://p.scdn.co/mp3-preview/0a6fac6bb6b6c1730c78d219ec0d6fa089065801?cid=c3be672b34b94587aeca21c4ebdab758",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:0j3a8iZ4qkkJ03i721L3tE"
+  },
+  {
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+          "id": "3p7Bs02UWDt5ENoJeUGqaB",
+          "name": "Porta",
+          "type": "artist",
+          "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+        }
+      ],
+      "available_markets": [
+        "MX",
+        "US"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2nWSJnbDqmXFX88nV4IIj6"
+      },
+      "href": "https://api.spotify.com/v1/albums/2nWSJnbDqmXFX88nV4IIj6",
+      "id": "2nWSJnbDqmXFX88nV4IIj6",
+      "images": [
+        {
+          "height": 636,
+          "url": "https://i.scdn.co/image/730644badd0770d5eea794aa9c8fede5bcdf94ab",
+          "width": 640
+        },
+        {
+          "height": 298,
+          "url": "https://i.scdn.co/image/0fed291c682dbc3307df85c1dc1062d75db38740",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e2befffca8e1e4da770e05200191d7a5a8d06571",
+          "width": 64
+        }
+      ],
+      "name": "Trastorno Bipolar",
+      "type": "album",
+      "uri": "spotify:album:2nWSJnbDqmXFX88nV4IIj6"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+        },
+        "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+        "id": "3p7Bs02UWDt5ENoJeUGqaB",
+        "name": "Porta",
+        "type": "artist",
+        "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+      }
+    ],
+    "available_markets": [
+      "MX",
+      "US"
+    ],
+    "disc_number": 1,
+    "duration_ms": 312573,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ES5700901633"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/2lUtueH1Toys2Xu87IEcJ0"
+    },
+    "href": "https://api.spotify.com/v1/tracks/2lUtueH1Toys2Xu87IEcJ0",
+    "id": "2lUtueH1Toys2Xu87IEcJ0",
+    "name": "Nota De Suicidio (Con Soma)",
+    "popularity": 45,
+    "preview_url": null,
+    "track_number": 4,
+    "type": "track",
+    "uri": "spotify:track:2lUtueH1Toys2Xu87IEcJ0"
+  },
+  {
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+          "id": "3p7Bs02UWDt5ENoJeUGqaB",
+          "name": "Porta",
+          "type": "artist",
+          "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/722LYOdM6WkZy8IDL4jxfi"
+      },
+      "href": "https://api.spotify.com/v1/albums/722LYOdM6WkZy8IDL4jxfi",
+      "id": "722LYOdM6WkZy8IDL4jxfi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f01755b315be96217f3d398ae7930e5f74e0ebbc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/6ea1d12ed46cb20ba2aa3bcddca5da53c18dca75",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b2c3fca1b614fd7e8ca2f9057cd46944adfb8139",
+          "width": 64
+        }
+      ],
+      "name": "Equilibrio (Edición Exclusiva Spotify)",
+      "type": "album",
+      "uri": "spotify:album:722LYOdM6WkZy8IDL4jxfi"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+        },
+        "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+        "id": "3p7Bs02UWDt5ENoJeUGqaB",
+        "name": "Porta",
+        "type": "artist",
+        "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0xCQDfPyQwk4sFpOfYQRtH"
+        },
+        "href": "https://api.spotify.com/v1/artists/0xCQDfPyQwk4sFpOfYQRtH",
+        "id": "0xCQDfPyQwk4sFpOfYQRtH",
+        "name": "Shinoflow",
+        "type": "artist",
+        "uri": "spotify:artist:0xCQDfPyQwk4sFpOfYQRtH"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AR",
+      "AT",
+      "AU",
+      "BE",
+      "BG",
+      "BO",
+      "BR",
+      "CA",
+      "CH",
+      "CL",
+      "CO",
+      "CR",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "DO",
+      "EC",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "GT",
+      "HK",
+      "HN",
+      "HU",
+      "ID",
+      "IE",
+      "IS",
+      "IT",
+      "JP",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MT",
+      "MX",
+      "MY",
+      "NI",
+      "NL",
+      "NO",
+      "NZ",
+      "PA",
+      "PE",
+      "PH",
+      "PL",
+      "PT",
+      "PY",
+      "SE",
+      "SG",
+      "SK",
+      "SV",
+      "TR",
+      "TW",
+      "US",
+      "UY"
+    ],
+    "disc_number": 1,
+    "duration_ms": 243916,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ES05I1601306"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/7pGOBJ1lnbX80CAT8aW1fC"
+    },
+    "href": "https://api.spotify.com/v1/tracks/7pGOBJ1lnbX80CAT8aW1fC",
+    "id": "7pGOBJ1lnbX80CAT8aW1fC",
+    "name": "Tela de Araña",
+    "popularity": 47,
+    "preview_url": "https://p.scdn.co/mp3-preview/8c07056e3466165bea0b9bcff48510cb3b516a76?cid=c3be672b34b94587aeca21c4ebdab758",
+    "track_number": 9,
+    "type": "track",
+    "uri": "spotify:track:7pGOBJ1lnbX80CAT8aW1fC"
+  },
+  {
+    "album": {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+          },
+          "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+          "id": "3p7Bs02UWDt5ENoJeUGqaB",
+          "name": "Porta",
+          "type": "artist",
+          "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4NT2252ZMZdK5stsb5q8x4"
+      },
+      "href": "https://api.spotify.com/v1/albums/4NT2252ZMZdK5stsb5q8x4",
+      "id": "4NT2252ZMZdK5stsb5q8x4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/5dc1994dd4b26cb942c4274e50584195a3864f03",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/84b2567a9b9f42a78ac9d1a058b475a6e1a2486c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/264bf6a9e128859964f1334341ff2c46a11ec2ce",
+          "width": 64
+        }
+      ],
+      "name": "Algo Ha Cambiado",
+      "type": "album",
+      "uri": "spotify:album:4NT2252ZMZdK5stsb5q8x4"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB"
+        },
+        "href": "https://api.spotify.com/v1/artists/3p7Bs02UWDt5ENoJeUGqaB",
+        "id": "3p7Bs02UWDt5ENoJeUGqaB",
+        "name": "Porta",
+        "type": "artist",
+        "uri": "spotify:artist:3p7Bs02UWDt5ENoJeUGqaB"
+      }
+    ],
+    "available_markets": [
+      "AD",
+      "AR",
+      "AT",
+      "AU",
+      "BE",
+      "BG",
+      "BO",
+      "BR",
+      "CA",
+      "CH",
+      "CL",
+      "CO",
+      "CR",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "DO",
+      "EC",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "GT",
+      "HK",
+      "HN",
+      "HU",
+      "ID",
+      "IE",
+      "IS",
+      "IT",
+      "JP",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MT",
+      "MX",
+      "MY",
+      "NI",
+      "NL",
+      "NO",
+      "NZ",
+      "PA",
+      "PE",
+      "PH",
+      "PL",
+      "PT",
+      "PY",
+      "SE",
+      "SG",
+      "SK",
+      "SV",
+      "TR",
+      "TW",
+      "US",
+      "UY"
+    ],
+    "disc_number": 1,
+    "duration_ms": 266293,
+    "explicit": false,
+    "external_ids": {
+      "isrc": "ES05I1400021"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/5Zaf55AlipAzbevlGDTL0H"
+    },
+    "href": "https://api.spotify.com/v1/tracks/5Zaf55AlipAzbevlGDTL0H",
+    "id": "5Zaf55AlipAzbevlGDTL0H",
+    "name": "Algo Ha Cambiado",
+    "popularity": 47,
+    "preview_url": "https://p.scdn.co/mp3-preview/4d3a8bb0d25dd961d78b6c978671bb9b8c395fb2?cid=c3be672b34b94587aeca21c4ebdab758",
+    "track_number": 2,
+    "type": "track",
+    "uri": "spotify:track:5Zaf55AlipAzbevlGDTL0H"
+  }
+]

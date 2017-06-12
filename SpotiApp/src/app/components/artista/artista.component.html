@@ -1,0 +1,33 @@
+<div class="container" *ngIf="artista">
+  <div class="row">
+    <div class="col-md-3">
+      <img [src]="image" alt="">
+    </div>
+    <div class="col-md-9">
+      <div class="row">
+        <div class="col-md-6">
+          <a class="btn btn-outline-danger" [routerLink]="['/buscar']">Regresar</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row" *ngIf="pistas">
+    <div class="col-md-3 text-center puntero"
+      *ngFor="let pista of pistas">
+
+      <div class="cards-pistas">
+        <img class="img-thumbnail" [src]="pista.album.images[2].url">
+        <div class="card-block">
+          <h4 class="card-title">{{ pista.album.name }}</h4>
+          <small>Reproducir preview</small>
+          <audio controls class="tag-audio">
+            <source [src]="pista.preview_url" type="audio/mp3">
+
+          </audio>
+          <a [href]="pista.album.external_urls.spotify" class="btn btn-sm btn-success-outline">Abrir con Spotify</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
